@@ -1,5 +1,5 @@
 # 💫 Hi there, I'm Hoang
-🔭 I’m currently a third-year student majoring in Computer Science<br>👯 I’m looking to collaborate on open-source projects or interesting ideas.<br>🌱 I’m currently working as Front-end Software Developer<br>💬 Ask me about anything. I'm happy to help<br>
+🔭 I’m currently a third-year student majoring in Computer Science<br>👯 I’m looking to collaborate on open-source projects or interesting ideas.<br>🌱 I’m currently working as Back-end Developer<br>💬 Ask me about anything. I'm happy to help<br>
 
 
 ## 💻 Tech Stack:
